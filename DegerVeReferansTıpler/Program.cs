@@ -6,10 +6,12 @@ namespace DegerVeReferansTıpler
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string hackTheBıllGates = "Im sorry but I hacked u son of a bitch! BillGates hacked by BİÇER";
+            Console.WriteLine(hackTheBıllGates);
 
 
-            
+
+
 
         }
     }
